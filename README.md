@@ -24,7 +24,7 @@ My work included:
 
 This contribution strengthened the domain model and ensured accurate representation of real estate agents within the system.
 
-🔗 Project Link: (add your GitHub repo link here)
+🔗 Project Link: (https://github.com/kleinworthfx/realestate-ddd-project.git)
 ---
 
 ### 📌 Student Enrollment Database System
